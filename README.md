@@ -56,8 +56,7 @@ This project aims to analyze Airbnb listings in **New York City** to gain insigh
 
 ## 📈 Key Insights & Visualizations
 
-*(Add this section later after completing your analysis. Include summary findings, charts, or link to a Tableau dashboard.)*
-
+Dashboard : https://public.tableau.com/app/profile/shahed.alruwaidan/viz/finalproject_17413483548050/airbnb_dashboard
 ---
 
 ## 🚀 Getting Started
